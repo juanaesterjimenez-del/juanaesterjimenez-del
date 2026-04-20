@@ -20,10 +20,14 @@ Soy docente de educación media, en el area de informatica, estoy estudiando y a
 
 
 ##  Contacto :speech_balloon:
+  <a href="profamorazan@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
 
   <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Da ❤️ por repositorios!
 
 </div>
 
